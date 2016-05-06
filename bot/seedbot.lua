@@ -231,8 +231,7 @@ function create_config( )
 	"supergroup",
 	"whitelist",
 	"msg_checks",
-	"addplug",
-	"plugins"
+	"addplug"
     },
     sudo_users = {173345972,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
@@ -348,7 +347,7 @@ This command will send text to [group_id]
 Commands list :
 
 !kick [username|id]
-You can also do it by reply
+باریپلای و ایدی انجام میشود
 
 !ban [ username|id]
 You can also do it by reply
