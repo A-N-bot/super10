@@ -231,7 +231,8 @@ function create_config( )
 	"supergroup",
 	"whitelist",
 	"msg_checks",
-	"addplug"
+	"addplug",
+	"linkpv"
     },
     sudo_users = {173345972,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
